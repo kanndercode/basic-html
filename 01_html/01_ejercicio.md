@@ -54,3 +54,10 @@ Crear las carpetas:
 - Link para ir a la página 2 y pagina 1.
 
 - Agregar un formulario con input para nombre, telefono, correo electornico, contraseña y boton de enviar.
+
+```html
+<h1>Register</h1>
+<form>
+  <input type="text" placeholder="Name" />
+</form>
+```
