@@ -42,6 +42,11 @@ Crear las carpetas:
 
 - Agregar una etiqueta imagen y vincular un archivo remoto (URL).
 
+```html
+<h1>Image</h1>
+<img src="./assets/img/file.png" alt="Description of image" />
+```
+
 ## En la pagina 3 crear:
 
 - Link para ir la página principal
